@@ -119,3 +119,37 @@ footer {
   color: #fff;
   font-size: 0.85rem;
 }
+/* THEME TOGGLE BUTTON */
+.theme-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 0.6rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+  font-size: 1rem;
+}
+
+/* DARK MODE */
+body.dark {
+  background: #020617;
+  color: #e5e7eb;
+}
+
+body.dark .section,
+body.dark .card,
+body.dark .alt {
+  background: #020617;
+}
+
+body.dark .skills li {
+  background: #1e293b;
+}
+
+body.dark footer,
+body.dark .hero {
+  background: #000000;
+}
