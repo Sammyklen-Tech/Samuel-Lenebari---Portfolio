@@ -148,6 +148,111 @@ body.dark .alt {
 body.dark .skills li {
   background: #1e293b;
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+body {
+  background: #f4f6f8;
+  color: #1f2933;
+  line-height: 1.6;
+}
+
+/* HERO */
+.hero {
+  background: #0f172a;
+  color: #fff;
+  text-align: center;
+  padding: 4rem 1.5rem;
+}
+
+.hero h1 {
+  font-size: 2.7rem;
+}
+
+.hero p {
+  margin: 1rem 0 2rem;
+  font-size: 1.1rem;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.btn {
+  padding: 0.6rem 1.4rem;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.primary {
+  background: #2563eb;
+  color: #fff;
+}
+
+.secondary {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+/* SECTIONS */
+.section {
+  max-width: 950px;
+  margin: auto;
+  padding: 3rem 1.5rem;
+}
+
+.section h2 {
+  margin-bottom: 1.2rem;
+  color: #0f172a;
+}
+
+.alt {
+  background: #ffffff;
+}
+
+/* SKILLS */
+.skills {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.7rem;
+}
+
+.skills li {
+  background: #e5e7eb;
+  padding: 0.6rem;
+  border-radius: 5px;
+}
+
+/* CARDS */
+.card {
+  background: #ffffff;
+  padding: 1.2rem;
+  border-radius: 7px;
+  margin-bottom: 1rem;
+}
+
+.company {
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+/* FOOTER */
+footer {
+  background: #0f172a;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
 
 body.dark footer,
 body.dark .hero {
