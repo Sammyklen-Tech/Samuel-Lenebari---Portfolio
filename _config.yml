@@ -1,15 +1,17 @@
 title: Samuel K. Lenebari | IT Professional
-description: IT Support | Cloud | Cybersecurity | Microsoft 365
+description: Remote IT Operations & Microsoft 365 Specialist
+url: ""
+baseurl: ""
+
 theme: null
 markdown: kramdown
 
 author:
-  name: Sammy Klen
+  name: Samuel K. Lenebari
   email: sammieklen@gmail.com
 
 social:
   github: https://sammyklen-tech.github.io
   linkedin: https://www.linkedin.com/in/samuel-lenebari-google-itsp-597b50183
 
-plugins:
-  - jekyll-feed
+plugins: []
