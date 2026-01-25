@@ -2,6 +2,12 @@
 layout: default
 title: Home
 ---
+<section id="hero">
+## Hi, I'm Samuel K. Lenebari 👋  
+**Remote IT Support | Microsoft 365 | Cloud & Security**
+
+[⬇ Download My CV](/assets/cv/Samuel-K-Lenebari-IT-Resume.pdf){: .btn }
+</section>
 
 <section id="about">
 ## About Me
