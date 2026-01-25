@@ -26,18 +26,31 @@ Results-driven Remote IT Operations and Support Specialist with 7+ years of expe
 </section>
 
 <section id="projects">
-## Featured Projects
+## Projects & Experience
 
-### IT Portfolio Website
-![Portfolio Screenshot](/assets/images/project1.png)
+<div class="card-grid">
 
-A professional GitHub Pages portfolio built using Jekyll.
+<div class="card">
+<img src="/assets/images/m365-admin.png" alt="Microsoft 365 Administration">
+<h3>Microsoft 365 Administration</h3>
+<p>User management, Exchange, Teams, security policies, and license optimization.</p>
+</div>
 
-### Network Setup & Support
-![Network Diagram](/assets/images/project2.png)
+<div class="card">
+<img src="/assets/images/remote-support.png" alt="Remote IT Support">
+<h3>Remote IT Support</h3>
+<p>Resolved hardware, OS, and network issues for distributed teams.</p>
+</div>
 
-Designed and supported enterprise network environments.
+<div class="card">
+<img src="/assets/images/networking.png" alt="Network Infrastructure">
+<h3>Network Infrastructure</h3>
+<p>LAN/WAN setup, monitoring, troubleshooting, and documentation.</p>
+</div>
+
+</div>
 </section>
+
 
 <section id="contact">
 ## Contact
