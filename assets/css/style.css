@@ -75,3 +75,22 @@ section img {
   margin: 0 8px;
   text-decoration: none;
 }
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0d1117;
+    color: #c9d1d9;
+  }
+
+  section h2 {
+    color: #58a6ff;
+  }
+
+  .container {
+    background: transparent;
+  }
+
+  .site-footer {
+    background: #010409;
+  }
+}
