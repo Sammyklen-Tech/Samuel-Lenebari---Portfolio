@@ -1,41 +1,15 @@
-# Site settings
-title: Samuel K. Lenebari | IT Support & Cloud Engineer
-description: >-
-  Professional IT portfolio showcasing experience in IT support,
-  Microsoft 365, networking, and cybersecurity.
-url: "https://https://sammyklen-tech.github.io/Samuel-Lenebari---Portfolio"
-baseurl: ""
+title: Samuel K. Lenebari | IT Professional
+description: IT Support | Cloud | Cybersecurity | Microsoft 365
+theme: null
+markdown: kramdown
 
-# Author info
 author:
   name: Sammy Klen
   email: sammieklen@gmail.com
 
-# Theme
-theme: minima
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Navigation (Minima)
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
-
-# Social links (optional)
-social_links:
+social:
   github: https://sammyklen-tech.github.io
   linkedin: https://www.linkedin.com/in/samuel-lenebari-google-itsp-597b50183
 
-
-# Exclude files from build
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+plugins:
+  - jekyll-feed
