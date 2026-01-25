@@ -4,9 +4,8 @@ title: Home
 ---
 <section id="hero">
 ## Hi, I'm Samuel K. Lenebari 👋  
-  (/assets/images/profile photo.jpg)
-**Remote IT Support | Microsoft 365 | Cloud & Security**
-
+  **Remote IT Support | Microsoft 365 | Cloud & Security**
+<img src="/assets/images/profile_photo.png"
 [⬇ Download My CV](/assets/cv/Samuel-K-lenebari-IT-Resume.pdf){: .btn }
 </section>
 
