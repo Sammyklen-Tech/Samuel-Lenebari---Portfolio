@@ -1,0 +1,19 @@
+Samuel-Lenebari---Portfolio.github.io/
+│
+├── _config.yml
+├── _layouts/
+│   └── default.html
+│
+├── _includes/
+│   ├── header.html
+│   └── footer.html
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── images/
+│       └── profile.jpg
+│
+├── index.md
+└── README.md
+
