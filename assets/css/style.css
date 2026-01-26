@@ -58,3 +58,16 @@ section h2 {
   transform: translateY(-4px);
   box-shadow: 0 10px 25px rgba(0,0,0,0.05);
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  section {
+    padding: 2.5rem 0;
+  }
+}
