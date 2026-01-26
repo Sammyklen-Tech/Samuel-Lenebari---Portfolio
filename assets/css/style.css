@@ -6,7 +6,8 @@
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; 
+  <section class="container">
 }
 
 body {
