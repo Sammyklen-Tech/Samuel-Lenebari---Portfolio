@@ -40,3 +40,21 @@ section h2 {
 .fade-in { opacity:0; transform:translateY(20px); transition:.6s ease; }
 .fade-in.show { opacity:1; transform:none; }
 .tools img { height:40px; margin:.5rem; }
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  padding: 1.5rem;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
