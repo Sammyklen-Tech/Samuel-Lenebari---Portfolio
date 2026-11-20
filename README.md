@@ -1,28 +1,23 @@
 # 👋 Hi, I'm Samuel K. Lenebari
 
-🚀 Remote IT Operations & Support Specialist  
-🌍 Supporting global teams | Microsoft 365 | Cloud | Cybersecurity
+🚀 # Samuel Kenule Lenebari
+Systems & Network Administrator | Port Harcourt, Nigeria
 
-## 🔧 What I Do
-- Remote IT Support (L1–L2)
-- Microsoft 365 Administration
-- Active Directory & Identity Management
-- Cloud & SaaS Support
-- Cybersecurity Awareness & IT Operations
+I run enterprise IT operations: Windows Server, Active Directory,
+Microsoft 365 and the networks underneath them. 7+ years of experience.
+Open to full-time remote roles.
 
-## 🧠 Experience
-- 7+ years supporting enterprise IT environments
-- Corporate & engineering industry experience
-- Strong focus on uptime, security, and documentation
+## What I work with
+- Windows Server, Active Directory, Group Policy, DNS, DHCP
+- Microsoft 365, Entra ID, SharePoint Online
+- MikroTik, Ubiquiti UniFi, VLANs, VPN
+- PowerShell (growing), Python and Bash (learning)
 
-## 📂 Featured Projects
-- IT Infrastructure Optimization
-- Cybersecurity Awareness Programs
-- Help Desk Process Improvement
+## Labs
+- AD and Windows Server lab (coming soon)
+- PowerShell user provisioning (coming soon)
 
-## 🌐 Portfolio
-🔗 https://sammyklen.tech
-
-## 📫 Contact
-- LinkedIn: [www.linkedin.com/in/samuel-lenebari-google-itsp-597b50183](https://www.linkedin.com/in/samuel-lenebari-google-itsp-597b50183/)
-- Email: sammieklen@gmail.com
+## Contact
+Portfolio: https://sammyklen-tech.github.io/Samuel-Lenebari---Portfolio/
+Email: samuellene.k@gmail.com
+LinkedIn: https://linkedin.com/in/SamuelLenebari
